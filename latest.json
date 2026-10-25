@@ -1,0 +1,9 @@
+{
+  "name": "OpenClaw Voice Console",
+  "version": "0.1.1",
+  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.1/OpenClaw-3D-Studio-Setup-0.1.1.exe",
+  "sha256": "4d31122e283f05261f6bb152c9049225579e2d6d458061a27ae339f519024047",
+  "size": 210369019,
+  "notes": "First in-app test candidate. Native Windows camera, projector, microphone and bridge acceptance remain pending.",
+  "signature": "hRlV8bPKUIRkdQy2OASOtmlP3WEOWFz+NygTv+GSVGQxWcwVzzQif9DJ4k/6rl0nn2M0HGfIdWRdoa3i2R38GpoiHrDnOUhDpDPdj1UNf89jfN0zt27j6FisJB70y9lrEJkbBaIqFc2leP3UubYuF+YVtgOLpUzuJVpOEwpjlEJf8i3TQz1lI/gUzMfdJ8SDJ1ReMG2rOHB+amq7+a+el9UpWWdLNEAmDlR61ycL+7m0LMxSXTgFRzbarBx4KYOcyHulPU3ichxV7q62jg8LiKq3QZCwkJdZGi+WtoKNao1q7iaJorsNxjbYDUQGc3YjF0Ipf95sb5RRufkSQQPH0klCNer0iw1c1m9xW10SOaqmbw57aaAwkmeX7zXHNHYauWpUO6SSy+Vb6FnxitTyw4hWXSOaTXdf9O7yEjuWwTyYpY32NL7rTQaBDIQkE9D+Ehsb0erfjpgXpPZjGqDwxsrZUN8E9NfexaUl/0lRzbrYayO1bFSNq7j0XV04BRiT"
+}
