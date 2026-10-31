@@ -1,12 +1,9 @@
 {
   "name": "OpenClaw 3D Studio",
-  "version": "0.1.3",
-  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.3/OpenClaw-3D-Studio-Setup-0.1.3.exe",
-  "sha256": "bb94ad0a03c169f47b6b5e95976e37a19da9672281252a369c9b8d7008e2a938",
-  "size": 210371293,
-  "notes": "Repairs the Studio preload so 001 review and generated-design controls load in the sandboxed app. Native Windows acceptance is still pending.",
-  "policyVersion": 1,
-  "releaseType": "repair",
-  "permissionChanges": false,
-  "signature": "NAzGpMx8alYSy25gyRQBvCqw5mXH25eL/J91RO4ul21/LxpWNbaCeRz8aHawF0w7ha9H71bkhW/GG1Ht8uMF37yOTK6ykxEAs9W+Mvwtq46RrVPiQlUoIkKRmLrhr47RSyphcEMlnPq990weLxMH3J5LHMdy3rtOVTCNJNByRck4Nk+ZgcsbennCUe9mIuFHZG4GrcGt01i/5h4MBlUmBnMCRkbf4AXTNK21ZgcorDbExx6zU7jwnStgAqFho8CaF2kH74xlY9dhhKkS/5GoU0x2j6eBAzfk9sqzJ86EUw/STzA2csGmEGJ7Orsh9xfG7RTlRkiDP4r/TaYoWoQErCKDc9PrsH7I40yerxkNiOVa6BhL3Jw7wecyYXnw9DpaiweMlZKf3Am+Y/aCVKkXjipBaGsCrZ8qWZuJY2mYKqzXVCJ5LDKMvYxpb1tGL/VLM1V0NmXhAiorEzk1WlwgIWsoFGEKYq+gOQNu1Y1I/63QNZSU3EPJzyHk0Pj+HLS4"
+  "version": "0.1.2",
+  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.2/OpenClaw-3D-Studio-Setup-0.1.2.exe",
+  "sha256": "5e19d86b9e8d7d6039829ce95232834095a7ad6bb92c84e7b5f3288536933f58",
+  "size": 210371305,
+  "notes": "Repairs correlated 001 review delivery and adds validated design preview/apply/undo plus hardware-free spatial controls. Native camera/projector acceptance remains pending.",
+  "signature": "Zg4QgdqjtAJd0ASJgw9Qe5Atd8otp3tfJqpvyqRwbCZylRx7yh/7hH5scBhD6xtoDC0xCojAvd0jpDvC54pYlVSsOOLIaHs5ErQ0ZaM/l0gIukBn7XkUZ8BycSbf3GTZV9dFyyfvIezhb43d3v3l+uu6vcHyt5iCCiNqGJgOZhdRFAzzwUVsO+/mntamJ5xFdCUvHvPNjOlRK7PJFja8Zwdiy1f0Wv0VyU9Iu0VUiaB+xUpT9g9bWbeA+BvTQRpLP+q6riJrQ8P5n1kz9I5xVehZjZ0hKhBMayumWmlHIWi660JjDu8a+qDgBJu3/TF8cDUCQJOhVjCw8pQnmo2hyadx8zmjEaZrZGTK93IdZoP3yGwOQ+RDsSq1DWoqoZvsHKl6PGWTMFvzroO/Z3iKj7imUb06DA7WCE608wqwFNQZeIlUi+/ROLukJDrKhlSZP0+xc0wUYGzNqWjDYhZyIiRmLQsQa9y7+VuMrC/LfVevs/YVuSXQRGJAgEGBm5DW"
 }
