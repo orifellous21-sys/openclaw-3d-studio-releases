@@ -1,9 +1,9 @@
 {
-  "name": "OpenClaw Voice Console",
-  "version": "0.1.1",
-  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.1/OpenClaw-3D-Studio-Setup-0.1.1.exe",
-  "sha256": "4d31122e283f05261f6bb152c9049225579e2d6d458061a27ae339f519024047",
-  "size": 210369019,
-  "notes": "First in-app test candidate. Native Windows camera, projector, microphone and bridge acceptance remain pending.",
-  "signature": "hRlV8bPKUIRkdQy2OASOtmlP3WEOWFz+NygTv+GSVGQxWcwVzzQif9DJ4k/6rl0nn2M0HGfIdWRdoa3i2R38GpoiHrDnOUhDpDPdj1UNf89jfN0zt27j6FisJB70y9lrEJkbBaIqFc2leP3UubYuF+YVtgOLpUzuJVpOEwpjlEJf8i3TQz1lI/gUzMfdJ8SDJ1ReMG2rOHB+amq7+a+el9UpWWdLNEAmDlR61ycL+7m0LMxSXTgFRzbarBx4KYOcyHulPU3ichxV7q62jg8LiKq3QZCwkJdZGi+WtoKNao1q7iaJorsNxjbYDUQGc3YjF0Ipf95sb5RRufkSQQPH0klCNer0iw1c1m9xW10SOaqmbw57aaAwkmeX7zXHNHYauWpUO6SSy+Vb6FnxitTyw4hWXSOaTXdf9O7yEjuWwTyYpY32NL7rTQaBDIQkE9D+Ehsb0erfjpgXpPZjGqDwxsrZUN8E9NfexaUl/0lRzbrYayO1bFSNq7j0XV04BRiT"
+  "name": "OpenClaw 3D Studio",
+  "version": "0.1.2",
+  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.2/OpenClaw-3D-Studio-Setup-0.1.2.exe",
+  "sha256": "5e19d86b9e8d7d6039829ce95232834095a7ad6bb92c84e7b5f3288536933f58",
+  "size": 210371305,
+  "notes": "Repairs correlated 001 review delivery and adds validated design preview/apply/undo plus hardware-free spatial controls. Native camera/projector acceptance remains pending.",
+  "signature": "Zg4QgdqjtAJd0ASJgw9Qe5Atd8otp3tfJqpvyqRwbCZylRx7yh/7hH5scBhD6xtoDC0xCojAvd0jpDvC54pYlVSsOOLIaHs5ErQ0ZaM/l0gIukBn7XkUZ8BycSbf3GTZV9dFyyfvIezhb43d3v3l+uu6vcHyt5iCCiNqGJgOZhdRFAzzwUVsO+/mntamJ5xFdCUvHvPNjOlRK7PJFja8Zwdiy1f0Wv0VyU9Iu0VUiaB+xUpT9g9bWbeA+BvTQRpLP+q6riJrQ8P5n1kz9I5xVehZjZ0hKhBMayumWmlHIWi660JjDu8a+qDgBJu3/TF8cDUCQJOhVjCw8pQnmo2hyadx8zmjEaZrZGTK93IdZoP3yGwOQ+RDsSq1DWoqoZvsHKl6PGWTMFvzroO/Z3iKj7imUb06DA7WCE608wqwFNQZeIlUi+/ROLukJDrKhlSZP0+xc0wUYGzNqWjDYhZyIiRmLQsQa9y7+VuMrC/LfVevs/YVuSXQRGJAgEGBm5DW"
 }
