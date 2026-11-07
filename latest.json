@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw 3D Studio",
-  "version": "0.1.3",
-  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.3/OpenClaw-3D-Studio-Setup-0.1.3.exe",
-  "sha256": "15b5c00194f8933e317d63a3d1b1cfa6e3d97917c2423f19361fafa1890615d3",
-  "size": 210374848,
-  "notes": "Adds 001 inside Studio, plain-language scene creation, explicit screen-context guidance, and a guided default-off camera gesture mode for bounded 3D control. Native camera behavior remains a test acceptance item.",
+  "version": "0.1.4",
+  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.4/OpenClaw-3D-Studio-Setup-0.1.4.exe",
+  "sha256": "6f99b9a3f7f63596815143505d73b52aface07a8471f0879aaf1a802c209e230",
+  "size": 210375240,
+  "notes": "Repairs microphone scene creation so ordinary design requests use the validated preview and apply flow. Includes no new permissions.",
   "policyVersion": 1,
-  "releaseType": "feature",
-  "permissionChanges": true,
-  "signature": "Zo0pIOhKgyW0178PwEZKK1Y+QMM9Q8ybCLyTip5XxM7xAyhGE3yyDTEISBbnhqm+j57uoLCt0xK41NdpWXrIAd6zytrXTib+I9aCJCWz+ki9/kfegfUVApkxGrxvwvY6L6IA52YxwIC+6HqHxb6vgeDVqaXtRy7Pqs8ai8oRBDSxcvJfGq5mcujurlhS5vDHRC80ZyKUFAcE49NM1hzKyJLEZ07Aje/KjEj7Xz1UDP1Dv5bKZJPogbNcLzPnfTCzCCvcbrZyBzY5gSJ8Aj+UNMeoCqYDJ4yXZm3w3wMc5ljjfaXnuwJtQxaBMWDj4dUmEYdbIRTkcZ0XqpncmdZdjFiQ5ut3InaqBd8q1yM26czfeH8wgZpKdqcHznv0JDaOjvcoF1d5nA9BNHlkITeNO8LGJFQAlCX+4/gHyKgdy1E4qUY9JrFq85Qr7I/dvrYugaXhsZg0mM2kiddT9YlzrSltcBdGKB6bCSlVauGksOXPtXp/mTtdi78FdElD+P2m"
+  "releaseType": "repair",
+  "permissionChanges": false,
+  "signature": "Gp1xjfhFYCBUcbsbROevMoFy5HOD5gUpkyqvczh7xRPOA1sVDq1lAIND5LSTHa2PpIS/ZJRoMC0QfVQloBNdN6ZCDHxjXrYPlFDwUBTpTpvpm6v94t6z1tWqINyGu5vWaBGc3oO542zHsCNamD8UprgPFjwRRXerzG3CnDKbrfHEZioKVG+cORg0waBI9pj1Tq7mycJU5z1kgAQTAHgCcjGa1npY3+VQf6t00Sez014QJLpZjKshZbLiuD7Fr79eTHjGmZz/4P2heq8AqkJC1K1UpQeh95SWEeRQCDKNJcLI+p7eRno5HC7LIm3qtDBXAyUuTMH02gPsMuRh0NOuThOxTCZinYOCWgLtQPoegRF8umHtUW0BbNb0MLmK3aYnuoJBvC18F4qB74/M4zMkyv344Xe8x+1O+VnE5C0b+h9YtPblsvqfLBgOwz+QANztLg1cpGMCLYeEBRICa//DM3MFHXi9K7GaNoVDxKhXoOYYeviQr8dLQJcbNzTMShA7"
 }
