@@ -1,9 +1,12 @@
 {
   "name": "OpenClaw 3D Studio",
-  "version": "0.1.2",
-  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.2/OpenClaw-3D-Studio-Setup-0.1.2.exe",
-  "sha256": "5e19d86b9e8d7d6039829ce95232834095a7ad6bb92c84e7b5f3288536933f58",
-  "size": 210371305,
-  "notes": "Repairs correlated 001 review delivery and adds validated design preview/apply/undo plus hardware-free spatial controls. Native camera/projector acceptance remains pending.",
-  "signature": "Zg4QgdqjtAJd0ASJgw9Qe5Atd8otp3tfJqpvyqRwbCZylRx7yh/7hH5scBhD6xtoDC0xCojAvd0jpDvC54pYlVSsOOLIaHs5ErQ0ZaM/l0gIukBn7XkUZ8BycSbf3GTZV9dFyyfvIezhb43d3v3l+uu6vcHyt5iCCiNqGJgOZhdRFAzzwUVsO+/mntamJ5xFdCUvHvPNjOlRK7PJFja8Zwdiy1f0Wv0VyU9Iu0VUiaB+xUpT9g9bWbeA+BvTQRpLP+q6riJrQ8P5n1kz9I5xVehZjZ0hKhBMayumWmlHIWi660JjDu8a+qDgBJu3/TF8cDUCQJOhVjCw8pQnmo2hyadx8zmjEaZrZGTK93IdZoP3yGwOQ+RDsSq1DWoqoZvsHKl6PGWTMFvzroO/Z3iKj7imUb06DA7WCE608wqwFNQZeIlUi+/ROLukJDrKhlSZP0+xc0wUYGzNqWjDYhZyIiRmLQsQa9y7+VuMrC/LfVevs/YVuSXQRGJAgEGBm5DW"
+  "version": "0.1.3",
+  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.3/OpenClaw-3D-Studio-Setup-0.1.3.exe",
+  "sha256": "15b5c00194f8933e317d63a3d1b1cfa6e3d97917c2423f19361fafa1890615d3",
+  "size": 210374848,
+  "notes": "Adds 001 inside Studio, plain-language scene creation, explicit screen-context guidance, and a guided default-off camera gesture mode for bounded 3D control. Native camera behavior remains a test acceptance item.",
+  "policyVersion": 1,
+  "releaseType": "feature",
+  "permissionChanges": true,
+  "signature": "Zo0pIOhKgyW0178PwEZKK1Y+QMM9Q8ybCLyTip5XxM7xAyhGE3yyDTEISBbnhqm+j57uoLCt0xK41NdpWXrIAd6zytrXTib+I9aCJCWz+ki9/kfegfUVApkxGrxvwvY6L6IA52YxwIC+6HqHxb6vgeDVqaXtRy7Pqs8ai8oRBDSxcvJfGq5mcujurlhS5vDHRC80ZyKUFAcE49NM1hzKyJLEZ07Aje/KjEj7Xz1UDP1Dv5bKZJPogbNcLzPnfTCzCCvcbrZyBzY5gSJ8Aj+UNMeoCqYDJ4yXZm3w3wMc5ljjfaXnuwJtQxaBMWDj4dUmEYdbIRTkcZ0XqpncmdZdjFiQ5ut3InaqBd8q1yM26czfeH8wgZpKdqcHznv0JDaOjvcoF1d5nA9BNHlkITeNO8LGJFQAlCX+4/gHyKgdy1E4qUY9JrFq85Qr7I/dvrYugaXhsZg0mM2kiddT9YlzrSltcBdGKB6bCSlVauGksOXPtXp/mTtdi78FdElD+P2m"
 }
