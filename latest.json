@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw 3D Studio",
-  "version": "0.1.4",
-  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.4/OpenClaw-3D-Studio-Setup-0.1.4.exe",
-  "sha256": "6f99b9a3f7f63596815143505d73b52aface07a8471f0879aaf1a802c209e230",
-  "size": 210375240,
-  "notes": "Repairs microphone scene creation so ordinary design requests use the validated preview and apply flow. Includes no new permissions.",
+  "version": "0.1.5",
+  "url": "https://github.com/orifellous21-sys/openclaw-3d-studio-releases/releases/download/v0.1.5/OpenClaw-3D-Studio-Setup-0.1.5.exe",
+  "sha256": "4235324baad2004a2bd9831c4e8d5d8f95289ca5753e796378be21f95f655c0a",
+  "size": 210375406,
+  "notes": "Test release for shared Voice Console workspace ownership and safe capture-off readiness. Includes no new permissions.",
   "policyVersion": 1,
-  "releaseType": "repair",
+  "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "Gp1xjfhFYCBUcbsbROevMoFy5HOD5gUpkyqvczh7xRPOA1sVDq1lAIND5LSTHa2PpIS/ZJRoMC0QfVQloBNdN6ZCDHxjXrYPlFDwUBTpTpvpm6v94t6z1tWqINyGu5vWaBGc3oO542zHsCNamD8UprgPFjwRRXerzG3CnDKbrfHEZioKVG+cORg0waBI9pj1Tq7mycJU5z1kgAQTAHgCcjGa1npY3+VQf6t00Sez014QJLpZjKshZbLiuD7Fr79eTHjGmZz/4P2heq8AqkJC1K1UpQeh95SWEeRQCDKNJcLI+p7eRno5HC7LIm3qtDBXAyUuTMH02gPsMuRh0NOuThOxTCZinYOCWgLtQPoegRF8umHtUW0BbNb0MLmK3aYnuoJBvC18F4qB74/M4zMkyv344Xe8x+1O+VnE5C0b+h9YtPblsvqfLBgOwz+QANztLg1cpGMCLYeEBRICa//DM3MFHXi9K7GaNoVDxKhXoOYYeviQr8dLQJcbNzTMShA7"
+  "signature": "BUrNxkpbwFobSBH5frF204yq/7UUVGmokFNXAkZad++8pK4c6NO1KZh0y6Vy3pS5BFPiZ1wt7kwJcgypbCpurBLV6+VQLCXiiksCeEiu6DuhQDsCHZLQZnmarsyLNW2qSrK7c9vAshlFizealq/QmGNd5MXpvkE4xeYgrH5UmzIp3G1a9UHwuI1JfpEUHhFBPE0ybNZlchunvDmRHKWglvN7V0H3EsNhUU0JlANslIQzNLx72RMpUY4SRrszPLYRIFgRRVeGnEkrz6wAKtTvoI+a+mCqv88Wp1q+Uopy0FTHdUN1vdVdpCdAF9nux28g3gTikNQTA7Sb8gBJOOSWJT7EgtBoxd5LP0VnxRYtX3NJidV6DKd7AFutEaSlzwI7Zx48egdek07Jz876OrqDv6COpQ5DQR2Ubbkp3LcoaKFgcB43vY2OEkfhNMOkysDJZ1se133hqYk9rSpNLDkxQCIu7eWgIcGa7kckPiRrwS+1PpWaigDDxuDD7A0FLIPB"
 }
